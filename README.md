@@ -89,10 +89,10 @@ Where we used <b> hash tables </b> ?
 
 ### Installation
 
-- VS Code
-- SQL Server
-- Workbench
-- Shell
+- Visual Studio Code
+- MySQL Server
+- MySQL Workbench
+- MySQL Shell
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,12 +151,6 @@ Where we used <b> hash tables </b> ?
 <a href="https://github.com/falselunatic/Hostel-Management-Application/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=falselunatic/Hostel-Management-Application" />
 </a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Connect With Us
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
