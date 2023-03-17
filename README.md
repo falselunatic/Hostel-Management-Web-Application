@@ -5,7 +5,7 @@ It is a web-based application for managing university hostels using a hash table
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/logo.png" alt="Logo" width="400" height="400">
+    <img src="images/bg.png" alt="background">
   </a>
 
 <!-- xyz line -->
@@ -41,12 +41,14 @@ It is a web-based application for managing university hostels using a hash table
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#projectstructure">Project Structure</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#objectives">Objectives</a></li>
+    <li><a href="#technologie-sused">Technologies Used</a></li>
     <li><a href="#glimpses">Glimpses</a></li>
-    <li><a href="#specifications">Specifications</a></li>
+    <li><a href="#project-specifications">Project Specifications</a></li>
     <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#connect">Connect with us</a></li>
+    <li><a href="#happy-coding">Happy Coding</a></li>
   </ol>
 </details>
 
@@ -85,8 +87,34 @@ To get a local copy up and running follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- further stuff -->
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
-  
-</div>
+## Objectives
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Structure
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Technologies Used 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Glimpses
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Specifications
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributors
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Connect With Us
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Happy Coding
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
