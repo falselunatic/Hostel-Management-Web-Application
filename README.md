@@ -11,14 +11,14 @@ It is a web-based application for managing university hostels using a hash table
 <!-- xyz line -->
 <p align="center">
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/falselunatic/Hostel-Management-Application"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/falselunatic/Hostel-Management-Application">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/falselunatic/Hostel-Management-Application/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/falselunatic/Hostel-Management-Application/issues">Request Feature</a>
   </p>
 </div>
 
@@ -41,9 +41,10 @@ It is a web-based application for managing university hostels using a hash table
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#projectstructure">Project Structure</a></li>
+    <li><a href="#glimpses">Glimpses</a></li>
+    <li><a href="#specifications">Specifications</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
