@@ -8,7 +8,6 @@ It is a web-based application for managing university hostels using a hash table
     <img src="images/bg.png" alt="background">
   </a>
 
-<!-- xyz line -->
 <p align="center">
     <br />
     <a href="https://github.com/falselunatic/Hostel-Management-Application"><strong>Explore the docs »</strong></a>
@@ -22,6 +21,7 @@ It is a web-based application for managing university hostels using a hash table
   </p>
 </div>
 
+---
 
 
 <!-- TABLE OF CONTENTS -->
@@ -52,12 +52,15 @@ It is a web-based application for managing university hostels using a hash table
   </ol>
 </details>
 
-
+---
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+This project focuses on providing the facilities to university hostels for managing the bulk of data at a time, with the help of <i> <b> Hash Table </i> </b> data structure. As we know, Hash tables are a type of data structure in which the address or the index value of the data element is generated from a hash function. That makes accessing the data faster as the index value behaves as a key for the data value. In other words Hash table stores key-value pairs but the key is generated through a hashing function.
+
+Where we used <b> hash tables </b> ?
+
 
 <!-- about -->
 
@@ -77,17 +80,40 @@ It is a web-based application for managing university hostels using a hash table
 
 ## Getting Started
 
-<!-- This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
- -->
 ### Prerequisites
+
+- Knowledge of python & its libraries.
+- Mysql.
+- Database concepts.
+- Good knowledge of Data Structures.
 
 ### Installation
 
+- VS Code
+- SQL Server
+- Workbench
+- Shell
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- further stuff -->
 
 ## Objectives
+
+- [x] Create a website that allows hostelers and its managers to make any required changes.
+- [x] User registration and login functionality.
+- [x] Ability to input and update student housing preferences.
+- [x] Automatic assignment of rooms based on preferences and availability.
+- [x] Real-time updates on room availability and status.
+- [x] Option to request room changes or switch roommates.
+- [x] Dashboard for housing administrators to manage and update housing information.
+- [x] Integration with payment systems for processing rent and other fees.
+- [x] Notifications for important deadlines and events related to housing.
+- [x] Search functionality for finding specific rooms or roommates.
+- [x] Secure data storage and protection of personal information.
+- [x] Option for students to create and join housing groups.
+- [x] Feedback mechanism for reporting maintenance issues or other concerns.
+- [x] Analytics dashboard for tracking housing occupancy rates and trends.
+- [x] Integration with campus map for providing location information and directions.
+- [ ] other objectives.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,6 +123,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Technologies Used 
 
+- Python
+- Pillow & Tkinter (Python Libraries)
+- MySQL
+- SQLite3 (Database Connection)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Glimpses
@@ -105,13 +136,27 @@ To get a local copy up and running follow these simple example steps.
 
 ## Project Specifications
 
+- Allows you to create the database of students and also gives the features to make changes to it.
+- Provides the real-time updates on room availability.
+- Secure data storage and protection of personal information.
+- Proper use of hash table data structure.
+- Use of APIs.
+- Use of Cloud Services to optimise performance.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributors
 
+<br>
+<a href="https://github.com/falselunatic/Hostel-Management-Application/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=falselunatic/Hostel-Management-Application" />
+</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Connect With Us
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
