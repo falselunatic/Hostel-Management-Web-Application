@@ -5,10 +5,9 @@ It is a web-based application for managing university hostels using a hash table
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="400" height="400">
   </a>
 
-  <h3 align="center">GharWaliFeeling</h3>
 <!-- xyz line -->
 <p align="center">
     <br />
