@@ -47,7 +47,6 @@ It is a web-based application for managing university hostels using a hash table
     <li><a href="#glimpses">Glimpses</a></li>
     <li><a href="#project-specifications">Project Specifications</a></li>
     <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#connect">Connect with us</a></li>
     <li><a href="#happy-coding">Happy Coding</a></li>
   </ol>
 </details>
@@ -118,6 +117,18 @@ Where we used <b> hash tables </b> ?
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Structure
+
+```
+
+├── Hostel
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └──
+├── Images
+
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
