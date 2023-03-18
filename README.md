@@ -82,7 +82,7 @@ Where we used <b> hash tables </b> ?
 ### Prerequisites
 
 - Knowledge of python & its libraries.
-- Mysql.
+- MySQL.
 - Database concepts.
 - Good knowledge of Data Structures.
 
@@ -120,12 +120,13 @@ Where we used <b> hash tables </b> ?
 
 ```
 
-├── Hostel
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └──
+├── Hostel Management
+│   ├── Hostel.py
+│   ├── Student.py
+│   ├── Room.py
+│   ├── Details.py
+│   ├── Login.py
+│   ├── Register.py
 ├── Images
 
 ```
