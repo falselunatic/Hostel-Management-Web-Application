@@ -185,6 +185,8 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 - Proper use of hash table data structure.
 - Face Recognition System for check-in & check-out.
 - Live chatbot(we are still working on it).
+- Search functionality for finding specific rooms or roommates.
+- Automatic assignment of rooms based on preferences and availability.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
