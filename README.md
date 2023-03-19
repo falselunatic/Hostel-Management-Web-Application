@@ -231,7 +231,12 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 ## Check this for more info
 <a href="https://www.canva.com/design/DAFdkNmIcUU/imS8SykrkkbvaMOdhnN8eA/view?utm_content=DAFdkNmIcUU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
- Click Here!
+  <i> Check the Presentation </i>
+</a>
+</br>
+
+<a href="https://www.youtube.com/watch?v=lyzoLD1VzLA">
+  <i> Video Explanation </i>
 </a>
 
 
