@@ -183,7 +183,8 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 - Provides the real-time updates on room availability.
 - Secure data storage and protection of personal information.
 - Proper use of hash table data structure.
-- Face Recognition System for check-in & check-out + Live chatbot
+- Face Recognition System for check-in & check-out.
+- Live chatbot(we are still working on it).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
