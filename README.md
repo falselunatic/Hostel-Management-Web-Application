@@ -125,13 +125,13 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 ```
 
 ├── Hostel Management Web Application
-│   ├── Hostel.py
-│   ├── Student.py
-│   ├── Room.py
 │   ├── Details.py
+│   ├── Face.py
+│   ├── Hash1.py
+│   ├── Hostel.py
 │   ├── Login.py
-│   ├── Register.py
-|   |── Hash1.py
+│   ├── Room.py
+|   |── Student.py
 ├── Images
 
 ```
@@ -229,12 +229,17 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Check this for more info
+<a href="https://www.canva.com/design/DAFdkNmIcUU/imS8SykrkkbvaMOdhnN8eA/view?utm_content=DAFdkNmIcUU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+ Click Here!
+</a>
+
 
 ## Contributors
 
 <br>
-<a href="https://github.com/falselunatic/Hostel-Management-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=falselunatic/Hostel-Management-Application" />
+<a href="https://github.com/falselunatic/Hostel-Management-Web-Application/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=falselunatic/Hostel-Management-Web-Application" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
