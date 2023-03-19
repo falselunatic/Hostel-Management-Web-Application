@@ -56,9 +56,12 @@ It is a web-based application for managing university hostels using a hash table
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project focuses on providing the facilities to university hostels for managing the bulk of data at a time, with the help of <i> <b> Hash Table </i> </b> data structure. As we know, Hash tables are a type of data structure in which the address or the index value of the data element is generated from a hash function. That makes accessing the data faster as the index value behaves as a key for the data value. In other words Hash table stores key-value pairs but the key is generated through a hashing function.
+This project focuses on providing the facilities to university hostels for managing the bulk of data at a time, with the help of Hash Table data structure. 
+Through this application, students can add, update or select in which kind of room they want to live and they can also check the availability of the rooms as well.  As we know, Hash tables are a type of data structure in which the address or the index value of the data element is generated from a hash function. That makes accessing the data faster as the index value behaves as a key for the data value. 
+On the other hand, hostel staff can check the details of any student, and additional charges on him/her if he/she is late or not on time. we are also providing the facility for check-in and checkout using a face recognition system, which makes a lot of work easier.
 
-Where we used <b> hash tables </b> ?
+In this Hostel Management with the use of Artificial Intelligence as well as Data Structures(Hash Table).
+We used AI in the Face Recognition System which we are using for check-in and checkout of students. Now hostel staff does not need to do this manually. Also, we used Hash Tables to track room assignments & move-in and move-out schedules. Our GharWaliFeeling is all set to do all the necessary jobs along with some additional features and ofcourse the wow factor as the Face Recognition System.
 
 
 <!-- about -->
@@ -69,7 +72,7 @@ Where we used <b> hash tables </b> ?
 
 ### Built With
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite)](https://skillicons.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,6 +88,7 @@ Where we used <b> hash tables </b> ?
 - MySQL.
 - Database concepts.
 - Good knowledge of Data Structures.
+- OpenCV.
 
 ### Installation
 
@@ -127,6 +131,7 @@ Where we used <b> hash tables </b> ?
 │   ├── Details.py
 │   ├── Login.py
 │   ├── Register.py
+|   |── 
 ├── Images
 
 ```
@@ -135,16 +140,42 @@ Where we used <b> hash tables </b> ?
 
 ## Technologies Used 
 
+## In Hostel Management Application-
 - Python
 - Pillow & Tkinter (Python Libraries)
 - MySQL
-- SQLite3 (Database Connection)
+- SQLite3 (Database connection)
+
+## In Face Recognition system-
+- OpenCV
+- Numpy 
+- Webcam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Glimpses
 
+![WhatsApp Image 2023-03-19 at 10 12 24 AM](https://user-images.githubusercontent.com/97685305/226154582-f1405e41-019f-4520-8b50-ddf7ef3330f1.jpeg)
+
+
+---
+
+![WhatsApp Image 2023-03-19 at 10 12 24 AM (1)](https://user-images.githubusercontent.com/97685305/226154608-10168c5c-8a3f-462d-85f5-b927dc1e8aaa.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-19 at 10 13 32 AM](https://user-images.githubusercontent.com/97685305/226154622-92fdc5fb-4c8e-4ce9-b01a-c410b7520baf.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-19 at 10 16 13 AM](https://user-images.githubusercontent.com/97685305/226154648-32aedecb-7d79-416a-9f87-affdc71e12ac.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-19 at 10 16 13 AM (1)](https://user-images.githubusercontent.com/97685305/226154656-716b42b0-f146-4d24-ab44-f90becc49c18.jpeg)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Project Specifications
 
@@ -152,8 +183,7 @@ Where we used <b> hash tables </b> ?
 - Provides the real-time updates on room availability.
 - Secure data storage and protection of personal information.
 - Proper use of hash table data structure.
-- Use of APIs.
-- Use of Cloud Services to optimise performance.
+- Face Recognition System for check-in & check-out + Live chatbot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
