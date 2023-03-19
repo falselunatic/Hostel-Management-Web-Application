@@ -174,7 +174,29 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 ![WhatsApp Image 2023-03-19 at 10 16 13 AM (1)](https://user-images.githubusercontent.com/97685305/226154656-716b42b0-f146-4d24-ab44-f90becc49c18.jpeg)
 
+---
+
+![2023-03-19 (3)](https://user-images.githubusercontent.com/97685305/226156198-71cd420f-9387-403c-ba10-df4149400dd7.png)
+
+---
+
+![WhatsApp Image 2023-03-19 at 10 16 13 AM (1)](https://user-images.githubusercontent.com/97685305/226156221-734d2cb2-7854-4aef-be97-bb0d79978eb9.jpeg)
+
+---
+
+
+![WhatsApp Image 2023-03-19 at 10 16 13 AM](https://user-images.githubusercontent.com/97685305/226156229-53e1b082-1bbc-44a8-8774-3f837461c80b.jpeg)
+
+
+---
+
+
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Project Specifications
