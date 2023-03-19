@@ -10,7 +10,7 @@ It is a web-based application for managing university hostels using a hash table
 
 <p align="center">
     <br />
-    <a href="https://github.com/falselunatic/Hostel-Management-Application"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/falselunatic/Hostel-Management-Web-Application"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/falselunatic/Hostel-Management-Application">View Demo</a>
