@@ -124,14 +124,14 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 ```
 
-├── Hostel Management
+├── Hostel Management Web Application
 │   ├── Hostel.py
 │   ├── Student.py
 │   ├── Room.py
 │   ├── Details.py
 │   ├── Login.py
 │   ├── Register.py
-|   |── 
+|   |── Hash1.py
 ├── Images
 
 ```
