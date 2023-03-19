@@ -190,7 +190,24 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 ---
 
+![2023-03-19 (12) (1)](https://user-images.githubusercontent.com/97685305/226159468-0f1f425f-36a4-4d56-a4ee-61cf809813c7.png)
 
+---
+
+![WhatsApp Image 2023-03-19 at 12 00 35 PM](https://user-images.githubusercontent.com/97685305/226159530-4f3cd285-a91e-47f9-b26d-145db1e76f09.jpeg)
+
+
+---
+
+![WhatsApp Image 2023-03-19 at 12 00 36 PM](https://user-images.githubusercontent.com/97685305/226159506-2c22d57c-6b8b-41c5-a73a-58b3ef5dfc2d.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-19 at 12 00 37 PM](https://user-images.githubusercontent.com/97685305/226159494-547fb44a-fcf5-4918-9fd2-bef8b1d031c2.jpeg)
+
+---
+
+![WhatsApp Image 2023-03-19 at 11 58 19 AM](https://user-images.githubusercontent.com/97685305/226159596-d113075c-e22b-4562-9cad-10a000bd6226.jpeg)
 
 
 
@@ -211,6 +228,7 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 - Automatic assignment of rooms based on preferences and availability.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Contributors
 
