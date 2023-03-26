@@ -125,6 +125,13 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 ```
 
 ├── Hostel Management Web Application
+│   ├── Camera Capture
+|       ├── main.py
+│   ├── Chatbot
+|       ├── main.py
+│   ├── Face Recognition
+│       ├── main.py
+|       ├── attendance.csv     
 │   ├── Details.py
 │   ├── Face.py
 │   ├── Hash1.py
