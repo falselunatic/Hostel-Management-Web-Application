@@ -243,7 +243,7 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Check this for more info
-<a href="https://www.canva.com/design/DAFdsyj_M98/x4eHdJfDwrAfO6BC-6hyEQ/view?utm_content=DAFdsyj_M98&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<a href="https://www.canva.com/design/DAFkrMgtAEs/A4vJzsEesQOB8N-YLly4HQ/view?utm_content=DAFkrMgtAEs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <i> Check the Presentation </i>
 </a>
 </br>
