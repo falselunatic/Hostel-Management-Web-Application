@@ -248,6 +248,7 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 </a>
 </br>
 
+<a href="https://devfolio.co/projects/hostel-management-web-application-0348">Devfolio Link</a> <br>
 <a href="https://www.youtube.com/watch?v=lyzoLD1VzLA">
   <i> Video Explanation </i>
 </a>
